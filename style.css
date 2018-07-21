@@ -1,0 +1,23 @@
+body {
+    background-color: #001630;
+    font-family: 'Montserrat', sans-serif;
+    color: #EDEDED;
+}
+
+h2 {
+    font-weight: 200;
+    color: #50e3c2
+}
+
+.socialIcons {
+    float: left;
+}
+
+.mobileSocial {
+    float: left;
+}
+
+#mobileNav {
+    position: relative;
+    bottom: 10px;
+}
